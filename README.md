@@ -6,3 +6,6 @@
 
 ### OOP with Java
 * Folder containing Java source with a basic system for handling audio content.
+
+### Data structure with Java
+* Folder containing Java source with a basic purchase processing method.
